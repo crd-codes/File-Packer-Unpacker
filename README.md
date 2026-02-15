@@ -25,6 +25,14 @@ To enhance security, the packed file is **encrypted**, and only authorized users
 - Built-in encryption and decryption to protect packed files.
 - Uses XOR-based encryption in Java.
 
+## 📂 Project Structure
+
+File-Packer-Unpacker/
+│
+├── Src/
+│   ├── Packer.java     → Source code for packing files
+│   └── Unpacker.java   → Source code for unpacking files
+└── README.md
 
 ## ⚙️💻 Example Usage (Console Flow)
 
