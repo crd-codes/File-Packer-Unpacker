@@ -62,12 +62,13 @@ File size: 180
 
 ## 👨‍💻 Author
 
-CR Dugade 
+CR Dugade
 Aspiring Software Developer
 
-GitHub: https://github.com/crd-codes
-LinkedIn: https://linkedin.com/in/chakradhar-dugade
-Email : crofficialuse@gmail.com 
+* GitHub: https://github.com/crd-codes
+* LinkedIn: https://linkedin.com/in/chakradhar-dugade
+* Email : crofficialuse@gmail.com 
+
 
 
 
