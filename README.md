@@ -1,6 +1,6 @@
 # File Packer & Unpacker with Encryption
 
-# 🛠 Technology : Java Programming
+## 🛠 Technology : Java Programming
 
 ---
 
@@ -51,9 +51,15 @@ File name: file3.txt
 File size: 180
 ```
 
-# 👨‍💻 Author
+## 👨‍💻 Author
 
-CR Dugade (crd-codes)
+CR Dugade 
+Aspiring Software Developer
+
+GitHub: https://github.com/crd-codes
+LinkedIn: https://linkedin.com/in/chakradhar-dugade
+Email : crofficialuse@gmail.com 
+
 
 
 
